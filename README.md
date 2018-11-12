@@ -82,5 +82,8 @@ http.listen(3000, function(){
   console.log('listening on port 3000')
 });
 ```
-PLEASE SEE these video's for more details -  https://vimeo.com/110240527
-https://youtu.be/E3tTzx0Qoj0
+PLEASE SEE these video's for more details -
+
+- https://vimeo.com/110240527  
+
+- https://youtu.be/E3tTzx0Qoj0
