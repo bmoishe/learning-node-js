@@ -23,18 +23,15 @@ var http = require('http').createServer(server);
 
 server.get('/', function(request, response){
   response.send('<h1>Hello World</h1>')
-  console.log('hey');
+  console.log('hey');//Just for testing the response
 });
 
 http.listen(3000, function(){
-  console.log('listening on port 3000')
+  console.log('listening on port 3000')//Just for testing the response
 });
 
 ```
-9. Now you can run the server with either
-```
-node server
-node server.js
+9. Now you can run the server with either ``` node server ```, ``` node server.js ``` or ```
 npm start server.js
 ```
 10. If you create a views folder you have to explicitly say where to find the files. For this I am using ejs files.
