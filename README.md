@@ -1,20 +1,20 @@
 Setting up a server in Node Js
 
-1. node -v
+1. ```node -v```
 
-2. brew install node
+2. ```brew install node```
 
 3. create node.js file for server ('server.js')
 
-4. npm init
+4. ```npm init```
 
 5. create git ignore file for node_modules
 
-6. npm install --save express
+6. ```npm install --save express```
 
-7. npm install --save ejs
+7. ```npm install --save ejs```
 
-8. In server.js file write:
+8. In server.js file write the following:
 
 ```JavaScript
 
