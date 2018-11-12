@@ -82,11 +82,3 @@ http.listen(3000, function(){
   console.log('listening on port 3000')
 });
 ```
-
-Mocka for testing and Jasmin node salenium (loads the browser and goes through the tasks)
-
-- all gets requests are event handlers
-
-- event amitters puts out events
-
-Jade is like hammel
