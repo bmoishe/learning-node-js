@@ -14,7 +14,7 @@ Setting up a server in Node Js
 
 7. npm install --save ejs
 
-8. In server.js file write
+8. In server.js file write:
 
 ```JavaScript
 
@@ -82,4 +82,5 @@ http.listen(3000, function(){
   console.log('listening on port 3000')
 });
 ```
-PLEASE SEE this video for more detail -  https://vimeo.com/110240527
+PLEASE SEE these video's for more details -  https://vimeo.com/110240527
+https://youtu.be/E3tTzx0Qoj0
