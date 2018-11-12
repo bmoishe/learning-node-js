@@ -31,9 +31,10 @@ http.listen(3000, function(){
 });
 
 ```
-9. Now you can run the server with either ``` node server ```, ``` node server.js ``` or ```
-npm start server.js
-```
+9. Now you can run the server with either
+
+``` node server ``` , ``` node server.js ``` or ```npm start server.js```
+
 10. If you create a views folder you have to explicitly say where to find the files. For this I am using ejs files.
 
 
